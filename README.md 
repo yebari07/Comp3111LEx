@@ -1,0 +1,15 @@
+# Comp3111LEx
+
+**Lab 1 — Introduction to Git & GitHub**
+
+## Project Structure
+- `src/main/java/Lab1/myLibrary.java`
+- `src/main/java/Lab1/mainApp1.java`
+
+## Screenshot
+Below is a screenshot of the IntelliJ project showing:
+- Project tool window (`.idea` and `src`)
+- Java class editor
+- Git log with commits
+
+![IntelliJ Screenshot](images/intellij_screen.png)
